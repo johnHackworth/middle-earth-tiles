@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://earth.google.com/kml/2.1">
   <Document>
-    <name>guerra.jpg</name>
+    <name>middleearth3.png</name>
     <description></description>
     <Style>
       <ListStyle id="hideChildren">
@@ -11,9 +11,9 @@
 
     <LookAt>
       <longitude>0.00000000000000</longitude>
-      <latitude>-53.73711340206185</latitude>
+      <latitude>-0.37443834248627</latitude>
       <altitude>0</altitude>
-      <range>7892278</range>
+      <range>9484987</range>
       <tilt>0</tilt>
       <heading>0</heading>
     </LookAt>
@@ -25,9 +25,9 @@
           <maxLodPixels>-1</maxLodPixels>
         </Lod>
         <LatLonAltBox>
-          <north>435.92783505154642</north>
-          <south>-197.47422680412370</south>
-          <east>453.40206185567013</east>
+          <north>400.03494757863200</north>
+          <south>-90.74887668497254</south>
+          <east>310.78382426360457</east>
           <west>-180.00000000000000</west>
         </LatLonAltBox>
       </Region>

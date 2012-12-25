@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-	  <Title>guerra.jpg</Title>
+	  <Title>middleearth3.png</Title>
 	  <Abstract></Abstract>
 	  <SRS>GEOGCS["WGS 84",
     DATUM["WGS_1984",
@@ -12,19 +12,18 @@
     UNIT["degree",0.0174532925199433,
         AUTHORITY["EPSG","9122"]],
     AUTHORITY["EPSG","4326"]]</SRS>
-	  <BoundingBox minx="-197.47422680412370" miny="-180.00000000000000" maxx="90.00000000000000" maxy="180.00000000000000"/>
-	  <Origin x="-197.47422680412370" y="-180.00000000000000"/>
+	  <BoundingBox minx="-90.74887668497254" miny="-180.00000000000000" maxx="90.00000000000000" maxy="180.00000000000000"/>
+	  <Origin x="-90.74887668497254" y="-180.00000000000000"/>
 	  <TileFormat width="256" height="256" mime-type="image/jpeg" extension="jpg"/>
 	  <TileSets profile="raster">
-	    <TileSet href="0" units-per-pixel="2.47422680412371" order="0"/>
-	    <TileSet href="1" units-per-pixel="1.23711340206186" order="1"/>
-	    <TileSet href="2" units-per-pixel="0.61855670103093" order="2"/>
-	    <TileSet href="3" units-per-pixel="0.30927835051546" order="3"/>
-	    <TileSet href="4" units-per-pixel="0.15463917525773" order="4"/>
-	    <TileSet href="5" units-per-pixel="0.07731958762887" order="5"/>
-	    <TileSet href="6" units-per-pixel="0.03865979381443" order="6"/>
-	    <TileSet href="7" units-per-pixel="0.01932989690722" order="7"/>
-	    <TileSet href="8" units-per-pixel="0.00966494845361" order="8"/>
+	    <TileSet href="0" units-per-pixel="1.91712431352971" order="0"/>
+	    <TileSet href="1" units-per-pixel="0.95856215676485" order="1"/>
+	    <TileSet href="2" units-per-pixel="0.47928107838243" order="2"/>
+	    <TileSet href="3" units-per-pixel="0.23964053919121" order="3"/>
+	    <TileSet href="4" units-per-pixel="0.11982026959561" order="4"/>
+	    <TileSet href="5" units-per-pixel="0.05991013479780" order="5"/>
+	    <TileSet href="6" units-per-pixel="0.02995506739890" order="6"/>
+	    <TileSet href="7" units-per-pixel="0.01497753369945" order="7"/>
 	  </TileSets>
 	</TileMap>
 	

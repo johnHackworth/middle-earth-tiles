@@ -15,10 +15,10 @@
           <maxLodPixels>-1</maxLodPixels>
         </Lod>
         <LatLonAltBox>
-          <north>30.15463917525776</north>
-          <south>20.25773195876292</south>
-          <east>-110.72164948453607</east>
-          <west>-120.61855670103093</west>
+          <north>85.62656015976034</north>
+          <south>77.95806290564153</south>
+          <east>-126.32051922116827</east>
+          <west>-133.98901647528709</west>
         </LatLonAltBox>
       </Region>
       <GroundOverlay>
@@ -27,10 +27,10 @@
           <href>../../6/6/22.jpg</href>
         </Icon>
         <LatLonBox>
-          <north>30.15463917525776</north>
-          <south>20.25773195876292</south>
-          <east>-110.72164948453607</east>
-          <west>-120.61855670103093</west>
+          <north>85.62656015976034</north>
+          <south>77.95806290564153</south>
+          <east>-126.32051922116827</east>
+          <west>-133.98901647528709</west>
         </LatLonBox>
       </GroundOverlay>    <NetworkLink>
       <name>7/12/44.jpg</name>
@@ -40,10 +40,10 @@
           <maxLodPixels>-1</maxLodPixels>
         </Lod>
         <LatLonAltBox>
-          <north>25.20618556701034</north>
-          <south>20.25773195876292</south>
-          <east>-115.67010309278351</east>
-          <west>-120.61855670103093</west>
+          <north>81.79231153270094</north>
+          <south>77.95806290564153</south>
+          <east>-130.15476784822766</east>
+          <west>-133.98901647528709</west>
         </LatLonAltBox>
       </Region>
       <Link>
@@ -59,10 +59,10 @@
           <maxLodPixels>-1</maxLodPixels>
         </Lod>
         <LatLonAltBox>
-          <north>25.20618556701034</north>
-          <south>20.25773195876292</south>
-          <east>-110.72164948453609</east>
-          <west>-115.67010309278351</west>
+          <north>81.79231153270094</north>
+          <south>77.95806290564153</south>
+          <east>-126.32051922116825</east>
+          <west>-130.15476784822766</west>
         </LatLonAltBox>
       </Region>
       <Link>
@@ -78,10 +78,10 @@
           <maxLodPixels>-1</maxLodPixels>
         </Lod>
         <LatLonAltBox>
-          <north>30.15463917525775</north>
-          <south>25.20618556701032</south>
-          <east>-115.67010309278351</east>
-          <west>-120.61855670103093</west>
+          <north>85.62656015976036</north>
+          <south>81.79231153270095</south>
+          <east>-130.15476784822766</east>
+          <west>-133.98901647528709</west>
         </LatLonAltBox>
       </Region>
       <Link>
@@ -97,10 +97,10 @@
           <maxLodPixels>-1</maxLodPixels>
         </Lod>
         <LatLonAltBox>
-          <north>30.15463917525775</north>
-          <south>25.20618556701032</south>
-          <east>-110.72164948453609</east>
-          <west>-115.67010309278351</west>
+          <north>85.62656015976036</north>
+          <south>81.79231153270095</south>
+          <east>-126.32051922116825</east>
+          <west>-130.15476784822766</west>
         </LatLonAltBox>
       </Region>
       <Link>

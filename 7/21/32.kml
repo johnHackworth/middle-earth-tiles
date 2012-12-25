@@ -15,10 +15,10 @@
           <maxLodPixels>-1</maxLodPixels>
         </Lod>
         <LatLonAltBox>
-          <north>-34.17525773195875</north>
-          <south>-39.12371134020617</south>
-          <east>-71.13402061855670</east>
-          <west>-76.08247422680412</west>
+          <north>35.78132800798801</north>
+          <south>31.94707938092860</south>
+          <east>-95.64653020469297</east>
+          <west>-99.48077883175237</west>
         </LatLonAltBox>
       </Region>
       <GroundOverlay>
@@ -27,87 +27,12 @@
           <href>../../7/21/32.jpg</href>
         </Icon>
         <LatLonBox>
-          <north>-34.17525773195875</north>
-          <south>-39.12371134020617</south>
-          <east>-71.13402061855670</east>
-          <west>-76.08247422680412</west>
+          <north>35.78132800798801</north>
+          <south>31.94707938092860</south>
+          <east>-95.64653020469297</east>
+          <west>-99.48077883175237</west>
         </LatLonBox>
-      </GroundOverlay>    <NetworkLink>
-      <name>8/42/64.jpg</name>
-      <Region>
-        <Lod>
-          <minLodPixels>128</minLodPixels>
-          <maxLodPixels>-1</maxLodPixels>
-        </Lod>
-        <LatLonAltBox>
-          <north>-36.64948453608246</north>
-          <south>-39.12371134020617</south>
-          <east>-73.60824742268041</east>
-          <west>-76.08247422680412</west>
-        </LatLonAltBox>
-      </Region>
-      <Link>
-        <href>../../8/42/64.kml</href>
-        <viewRefreshMode>onRegion</viewRefreshMode>
-      </Link>
-    </NetworkLink>
-    <NetworkLink>
-      <name>8/43/64.jpg</name>
-      <Region>
-        <Lod>
-          <minLodPixels>128</minLodPixels>
-          <maxLodPixels>-1</maxLodPixels>
-        </Lod>
-        <LatLonAltBox>
-          <north>-36.64948453608246</north>
-          <south>-39.12371134020617</south>
-          <east>-71.13402061855669</east>
-          <west>-73.60824742268041</west>
-        </LatLonAltBox>
-      </Region>
-      <Link>
-        <href>../../8/43/64.kml</href>
-        <viewRefreshMode>onRegion</viewRefreshMode>
-      </Link>
-    </NetworkLink>
-    <NetworkLink>
-      <name>8/42/65.jpg</name>
-      <Region>
-        <Lod>
-          <minLodPixels>128</minLodPixels>
-          <maxLodPixels>-1</maxLodPixels>
-        </Lod>
-        <LatLonAltBox>
-          <north>-34.17525773195876</north>
-          <south>-36.64948453608247</south>
-          <east>-73.60824742268041</east>
-          <west>-76.08247422680412</west>
-        </LatLonAltBox>
-      </Region>
-      <Link>
-        <href>../../8/42/65.kml</href>
-        <viewRefreshMode>onRegion</viewRefreshMode>
-      </Link>
-    </NetworkLink>
-    <NetworkLink>
-      <name>8/43/65.jpg</name>
-      <Region>
-        <Lod>
-          <minLodPixels>128</minLodPixels>
-          <maxLodPixels>-1</maxLodPixels>
-        </Lod>
-        <LatLonAltBox>
-          <north>-34.17525773195876</north>
-          <south>-36.64948453608247</south>
-          <east>-71.13402061855669</east>
-          <west>-73.60824742268041</west>
-        </LatLonAltBox>
-      </Region>
-      <Link>
-        <href>../../8/43/65.kml</href>
-        <viewRefreshMode>onRegion</viewRefreshMode>
-      </Link>
-    </NetworkLink>
+      </GroundOverlay>
     </Folder>
   </Document>
 </kml>
